@@ -10,13 +10,20 @@ I’m Abdelrahman, a student engineer in mechatronics, problem-solving, SOLIDWOR
 
 Want to know more about me?
 
-[Check out my LinkedIn.](https://www.linkedin.com/in/abdul-rahman-yousef-almaghrabi/)
+Check out my Accounts.
 
- [Check out my HackerRank.](https://www.hackerrank.com/profile/bodbaosh258)
+<html> 
+<body>
+    <br>
+    <a href="https://www.linkedin.com/in/abdul-rahman-yousef-almaghrabi/">
+        <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Rahman%20Yousef%20Almaghrabi-blue?logo=Linkedin&logoColor=blue&labelColor=black" alt="LinkedIn">
+    </a>
+    </br>
+</body>
+</html>
 
- 
-<html>
- 
+
+<html> 
 <body>
     <br>
     <a href="https://www.hackerrank.com/profile/bodbaosh258">  
@@ -25,3 +32,5 @@ Want to know more about me?
     </br>
 </body>
 </html>
+ 
+
