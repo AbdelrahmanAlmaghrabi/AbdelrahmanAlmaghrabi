@@ -17,24 +17,30 @@ Check out my Accounts.
  
 <body>
     <br>
-    <!-- رابط LinkedIn -->
+    <!--   LinkedIn -->
     <a href="https://www.linkedin.com/in/abdul-rahman-yousef-almaghrabi/">
         <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Rahman%20Yousef%20Almaghrabi-blue?logo=Linkedin&logoColor=blue&labelColor=black" alt="LinkedIn">
     </a>
     </br>
     <br>
-    <!-- رابط HackerRank -->
-    <a href="https://www.hackerrank.com/Your_Username"> <!-- قم بتغيير Your_Username إلى اسم المستخدم الخاص بك على HackerRank -->
-        <img src="https://img.shields.io/badge/HackerRank-Your_Username-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black" alt="HackerRank"> <!-- قم بتغيير Your_Username إلى اسم المستخدم الخاص بك على HackerRank -->
+    <!--  k -->
+    <a href="https://www.hackerrank.com/Your_Username"> <!--    HackerRank -->
+        <img src="https://img.shields.io/badge/HackerRank-Your_Username-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black" alt="HackerRank"> <!--  HackerRank -->
     </a>
     </br>
     <br>
-    <!-- رابط البريد الإلكتروني -->
+    <!--   -->
     <a href="mailto:bodbaosh258@gmail.com">
         <img src="https://img.shields.io/badge/Email-bodbaosh258@gmail.com-red?logo=Gmail&logoColor=white&labelColor=black" alt="Email">
     </a>
     </br>
+    <br>
+    <!--   -->
+    <h2>🛠️ Languages and Tools</h2>
+    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+    </code>
+    <code><img height="50" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
+  
 </body>
 </html>
-
-
