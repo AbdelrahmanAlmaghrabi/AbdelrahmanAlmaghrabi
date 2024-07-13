@@ -19,13 +19,13 @@ Check out my Accounts.
     <br>
     <!--   LinkedIn -->
     <a href="https://www.linkedin.com/in/abdul-rahman-yousef-almaghrabi/">
-        <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Rahman%20Yousef%20Almaghrabi-blue?logo=Linkedin&logoColor=blue&labelColor=black" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-Abdel%20Rahman%20%20Almaghrabi-blue?logo=Linkedin&logoColor=blue&labelColor=black" alt="LinkedIn">
     </a>
     </br>
     <br>
     <!--  k -->
-    <a href="https://www.hackerrank.com/Your_Username"> <!--    HackerRank -->
-        <img src="https://img.shields.io/badge/HackerRank-Your_Username-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black" alt="HackerRank"> <!--  HackerRank -->
+    <a href="https://www.hackerrank.com/bodbaosh258"> <!--    HackerRank -->
+        <img src="https://img.shields.io/badge/HackerRank-Abdel Rahman Almaghrabi-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black" alt="HackerRank"> <!--  HackerRank -->
     </a>
     </br>
     <br>
