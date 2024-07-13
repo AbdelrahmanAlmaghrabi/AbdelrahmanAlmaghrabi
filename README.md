@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AbdelrahmanAlmaghrabi
 - 👀 I’m interested in Robotics and Embedded systems
 - 🌱 I’m currently learning Mechatronics
-![Uploading banner.jpg…]()
+ 
 
-[![Abdelrahman's GitHub Banner](banner.jpg)] 
+[![Omar's GitHub Banner](banner.jpg)](https://sites.google.com/view/omarelsherif)
 
 Hey there 👋
 
