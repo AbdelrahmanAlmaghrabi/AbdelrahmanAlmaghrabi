@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdelrahmanAlmaghrabi
+- 👋 Hi, I’m Abdelrahman Almaghrabi
 - 👀 I’m interested in Robotics and Embedded systems
 - 🌱 I’m currently learning Mechatronics
  
