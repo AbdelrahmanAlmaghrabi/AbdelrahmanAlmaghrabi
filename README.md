@@ -36,11 +36,10 @@ Check out my Accounts.
     </br>
     <br>
     <!--   -->
-    <h2>🛠️ Languages and Tools</h2>
-    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-    <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-    </code>
-    <code><img height="50" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
-  
+  <h2>🛠️ Languages and Tools</h2>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
+<code><img height="50" src="https://www.svgrepo.com/show/508968/solidworks.svg"></code>
 </body>
 </html>
